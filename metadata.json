@@ -1,0 +1,7 @@
+{
+  "name": "Geo Avatar AI",
+  "description": "An application that generates a unique AI avatar based on your current geographical region. It uses your location to create a culturally and geographically inspired digital masterpiece.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
